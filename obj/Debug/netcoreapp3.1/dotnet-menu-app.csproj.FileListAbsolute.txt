@@ -1,0 +1,11 @@
+D:\CodeGym\Bai2\dotnet-menu-app\bin\Debug\netcoreapp3.1\dotnet-menu-app.exe
+D:\CodeGym\Bai2\dotnet-menu-app\bin\Debug\netcoreapp3.1\dotnet-menu-app.deps.json
+D:\CodeGym\Bai2\dotnet-menu-app\bin\Debug\netcoreapp3.1\dotnet-menu-app.runtimeconfig.json
+D:\CodeGym\Bai2\dotnet-menu-app\bin\Debug\netcoreapp3.1\dotnet-menu-app.runtimeconfig.dev.json
+D:\CodeGym\Bai2\dotnet-menu-app\bin\Debug\netcoreapp3.1\dotnet-menu-app.dll
+D:\CodeGym\Bai2\dotnet-menu-app\bin\Debug\netcoreapp3.1\dotnet-menu-app.pdb
+D:\CodeGym\Bai2\dotnet-menu-app\obj\Debug\netcoreapp3.1\dotnet-menu-app.csprojAssemblyReference.cache
+D:\CodeGym\Bai2\dotnet-menu-app\obj\Debug\netcoreapp3.1\dotnet-menu-app.AssemblyInfoInputs.cache
+D:\CodeGym\Bai2\dotnet-menu-app\obj\Debug\netcoreapp3.1\dotnet-menu-app.AssemblyInfo.cs
+D:\CodeGym\Bai2\dotnet-menu-app\obj\Debug\netcoreapp3.1\dotnet-menu-app.dll
+D:\CodeGym\Bai2\dotnet-menu-app\obj\Debug\netcoreapp3.1\dotnet-menu-app.pdb
